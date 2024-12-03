@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br><br>Hi there! 👋 I'm a passionate Full-Stack Developer in Training constantly learning and improving my skills. I enjoy building software solutions and exploring the world of programming.<br><br>🛠️ Tech Stack<br>- Languages: Python, Java, C#, HTML, CSS, JavaScript<br>- Frameworks & Tools: React, Firebase, WordPress<br>- Database Management: MySQL<br><br>I'm eager to work on projects that challenge me and contribute to my growth as a developer. Feel free to check out my repositories and connect with me!<br>
+About Me<br><br>Hi there! 👋 I'm a passionate **Full-Stack Developer in Training** constantly learning and improving my skills. I enjoy building software solutions and exploring the world of programming.<br><br>🛠️ Tech Stack<br>- Languages: Python, Java, C#, HTML, CSS, JavaScript<br>- Frameworks & Tools: React, Firebase, WordPress<br>- Database Management: MySQL<br><br>I'm eager to work on projects that challenge me and contribute to my growth as a developer. Feel free to check out my repositories and connect with me!<br>
 
 
 # 💻 Tech Stack:
